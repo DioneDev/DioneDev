@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioneDev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-# :rocket: Technologies & Tools
+# :rocket: Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Img-Java" src="https://img.icons8.com/color/54/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Img-JavaScript" src="https://img.icons8.com/nolan/54/javascript.png"/>
@@ -14,12 +14,6 @@
   <img align="center" alt="Img-React" src="https://img.icons8.com/color/45/000000/react-native.png"/>
   <img align="center" alt="Img-HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img align="center" alt="Img-CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img align="center" alt="Img-Spring" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-  <img align="center" alt="Img-PostgresSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img align="center" alt="Img-MongoDB" src="https://img.icons8.com/color/50/000000/mongodb.png"/>
-  <img align="center" alt="Img-VisualStudioCode" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img align="center" alt="Img-IntellijIdea" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-  <img align="center" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
   
 ## 
